@@ -1,5 +1,5 @@
 // ConsoleApplication7.cpp : Defines the entry point for the console application.
-//
+//Prueba a ver que es lo que pasa
 
 #include "stdafx.h"
 #include <stdio.h>
